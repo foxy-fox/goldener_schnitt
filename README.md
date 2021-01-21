@@ -5,6 +5,8 @@ Verwendung:
 
 $ ./goldener_schnitt.py 13
 
+
+
 Output:
 
 Ausgangszahl:        13,000
@@ -40,5 +42,4 @@ Major:               21,034
 
 Minor(x):            13,000
 
----------------------------- 
 
