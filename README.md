@@ -1,13 +1,13 @@
 # goldener_schnitt
 Python-Script zum berechnen des goldenen Schnitts
 
-#Verwendung:
+**Verwendung:**
 
 $ ./goldener_schnitt.py 13
 
 
 
-#Output:
+**Output:**
 
 Ausgangszahl:        13,000
 
